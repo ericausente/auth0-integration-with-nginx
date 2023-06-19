@@ -15,12 +15,12 @@ Client ID: YYYYYYYYYYYYYYYYYYY
 Client Secret: e1245hfd-eWCPBIh_yGCK-X-jlLTy__ZjxuIneazzM5iDSJKs8sdhahdkjhsd
 
 Note the following URLs from Auth0 for future reference:
-        OAuth Authorization URL: https://dev-12345tm2i6gz0pj.us.auth0.com/authorize
-        Device Authorization URL: https://dev-12345tm2i6gz0pj.us.auth0.com/oauth/device/code
-        OAuth Token URL: https://dev-12345tm2i6gz0pj.us.auth0.com/oauth/token
-        User Info URL: https://dev-12345tm2i6gz0pj.us.auth0.com/userinfo
-        OpenID Configuration URL: https://dev-12345tm2i6gz0pj.us.auth0.co/.well-known/openid-configuration
-        JSON Web Key URL: https://dev-12345tm2i6gz0pj.us.auth0.com/.well-known/openid-configuration
+- OAuth Authorization URL: https://dev-12345tm2i6gz0pj.us.auth0.com/authorize
+- Device Authorization URL: https://dev-12345tm2i6gz0pj.us.auth0.com/oauth/device/code
+- OAuth Token URL: https://dev-12345tm2i6gz0pj.us.auth0.com/oauth/token
+- User Info URL: https://dev-12345tm2i6gz0pj.us.auth0.com/userinfo
+- OpenID Configuration URL: https://dev-12345tm2i6gz0pj.us.auth0.co/.well-known/openid-configuration
+- JSON Web Key URL: https://dev-12345tm2i6gz0pj.us.auth0.com/.well-known/openid-configuration
 
 After setting up Auth0, configure Nginx Plus by following the instructions provided in the main NGINX documentation:
 
