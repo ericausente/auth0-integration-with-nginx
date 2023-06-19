@@ -60,8 +60,8 @@ location = /_token {
 ```
 
 Copy the following files to the conf.d directory of your Nginx configuration:
-        frontend.conf
-        openid_connect.js
-        openid_connect.server_conf
-        openid_connect_configuration.conf
+- frontend.conf
+- openid_connect.js
+- openid_connect.server_conf
+- openid_connect_configuration.conf
 
