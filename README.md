@@ -10,9 +10,9 @@ https://github.com/nginx-openid-connect/nginx-oidc-auth0/blob/main/docs/01-Auth0
 
 
 Take note of the following information from the Auth0 Identity Provider (IDP):
-Domain: dev-12345tm2i6gz0pj.us.auth0.com
-Client ID: YYYYYYYYYYYYYYYYYYY
-Client Secret: e1245hfd-eWCPBIh_yGCK-X-jlLTy__ZjxuIneazzM5iDSJKs8sdhahdkjhsd
+- Domain: dev-12345tm2i6gz0pj.us.auth0.com
+- Client ID: YYYYYYYYYYYYYYYYYYY
+- Client Secret: e1245hfd-eWCPBIh_yGCK-X-jlLTy__ZjxuIneazzM5iDSJKs8sdhahdkjhsd
 
 Note the following URLs from Auth0 for future reference:
 - OAuth Authorization URL: https://dev-12345tm2i6gz0pj.us.auth0.com/authorize
